@@ -1,4 +1,8 @@
 {
+  "$schema": "https://turbo.build/schema.json",
+  "remoteCache": {
+    "signature": false
+  },
   "tasks": {
     "docs:dev": {
       "cache": false,
@@ -6,9 +10,7 @@
     },
     "docs:build": {
       "cache": true,
-      "outputs": [
-        "docs/.vitepress/dist/**/*"
-      ]
+      "outputs": ["docs/.vitepress/dist/**/*"]
     },
     "lint": {},
     "format": {}
