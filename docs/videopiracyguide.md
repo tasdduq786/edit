@@ -526,6 +526,7 @@
 * [FullMatchSports](https://fullmatchsports.cc/) - Motorsports Replays
 * [F1 Full Races](https://f1fullraces.com/) - Motorsports Replays
 * [Rugby24](https://rugby24.net/) - Rugby Replays
+* [WatchWrestlingOnlin.live](https://watchwrestlingonline.live/) - MMA / Wrestling Replays
 
 ***
 
